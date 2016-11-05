@@ -1,0 +1,7 @@
+welcome: Hi, {{ firstname }}, how can I help you?
+
+question: How can I help you?
+
+list: The pills you have to take are {{ list|join(", ") }}.
+
+add: Medication added successfully.
