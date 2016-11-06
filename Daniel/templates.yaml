@@ -1,0 +1,9 @@
+introduction: I am going to monitor changes in your acceleration. Please, put on our sensor. Are you ready?
+
+repeat: Please, put on our sensor and try again.
+
+fall: I have detected an unexpected change in your speed. Have you fallen?
+
+fall_true: I am calling an ambulance, don't worry.
+
+fall_false: Ok, I am glad you are fine.

@@ -1,0 +1,40 @@
+------------------
+Intent Schema:
+------------------
+
+{
+    "intents": [{
+        "intent": "FallIntent"
+    }, {
+        "intent": "NoFallIntent"
+    }, {
+        "intent": "YesIntent"
+    }]
+}
+
+
+------------------
+Sample Utterances:
+------------------
+
+YesIntent sure
+
+YesIntent of course
+
+
+FallIntent yes
+
+FallIntent yes i have fallen
+
+FallIntent yes i fell
+
+FallIntent aa
+
+
+NoFallIntent no
+
+NoFallIntent no i am fine
+
+NoFallIntent no leave me alone
+
+NoFallIntent no i am okey
